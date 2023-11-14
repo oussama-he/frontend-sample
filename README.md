@@ -25,6 +25,12 @@ The goal is to improve the UI/UX of the current form using the components at you
 
 The markers highlighted above demonstrate where you should be editing on the page.
 
+**Result**
+
+After modification, the page looks like this:
+
+![image](https://github.com/oussama-he/frontend-sample/assets/18425315/fc36318e-580f-4e2e-8ffa-b6e937d8235c)
+
 Please reach out to phil@growlabs.io if
 * something doesn't work
 * you're not sure if you can use something 
