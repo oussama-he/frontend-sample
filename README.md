@@ -29,7 +29,8 @@ The markers highlighted above demonstrate where you should be editing on the pag
 
 After modification, the page looks like this:
 
-![image](https://github.com/oussama-he/frontend-sample/assets/18425315/fc36318e-580f-4e2e-8ffa-b6e937d8235c)
+![image](https://github.com/oussama-he/frontend-sample/assets/18425315/5d060a67-e1c2-45d6-8156-6b4e3ece14a6)
+
 
 Please reach out to phil@growlabs.io if
 * something doesn't work
